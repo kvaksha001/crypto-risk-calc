@@ -29,10 +29,10 @@ The script will show:
 - how many $ you risk;
 - stop distance in %;
 - recommended position size in $;
-- number of coins you should buy/short. [web:101]
+- number of coins you should buy/short.
 
 ## Who is it for
 
 - Scalpers and intraday traders on MEXC/Bybit/Binance.
 - Beginners who want to calculate risk instead of trading “by vibes”.
-- Traders who keep a journal and want to automate position sizing. [web:95][web:102]
+- Traders who keep a journal and want to automate position sizing. 
