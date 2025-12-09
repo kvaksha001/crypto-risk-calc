@@ -1,14 +1,14 @@
 # Crypto Futures Risk Calculator
 
 A simple console calculator for crypto futures.  
-The script helps you calculate position size based on your deposit, risk percentage, and stop-loss distance. [web:101]
+The script helps you calculate position size based on your deposit, risk percentage, and stop-loss distance. 
 
 ## Features
 
 - Calculates how much money you actually risk per trade (risk in $).
 - Determines the stop-loss distance as a percentage of the entry price.
 - Outputs the recommended position size in USD.
-- Shows how many coins/contracts you can take with that risk. [web:101][web:97]
+- Shows how many coins/contracts you can take with that risk. 
 
 The idea: don’t enter “by feeling” — know exactly how many tokens to buy so you don’t blow the account on a single trade.
 
@@ -16,7 +16,7 @@ The idea: don’t enter “by feeling” — know exactly how many tokens to buy
 
 1. Install Python 3 (if not installed).
 2. Download `risk_calculator.py` or clone the repo:
-git clone https://github.com/YOUR_NICK/crypto-risk-calc
+git clone https://github.com/kvaksha001/crypto-risk-calc
 cd crypto-risk-calc
 3. Run the script:
 4. Enter:
